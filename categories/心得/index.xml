@@ -6,20 +6,11 @@
     <description>Recent content in 心得 on 部落格</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Fri, 17 Apr 2020 21:07:47 +0800</lastBuildDate><atom:link href="https://github.com/TIMBCLIN/categories/%E5%BF%83%E5%BE%97/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>第二篇文章</title>
-      <link>https://github.com/TIMBCLIN/blog/second/</link>
-      <pubDate>Fri, 17 Apr 2020 21:07:47 +0800</pubDate>
-      
-      <guid>https://github.com/TIMBCLIN/blog/second/</guid>
-      <description>我是第二篇文章</description>
-    </item>
-    
+    <lastBuildDate>Tue, 29 Oct 2019 10:07:47 +0600</lastBuildDate><atom:link href="https://github.com/TIMBCLIN/categories/%E5%BF%83%E5%BE%97/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>第一篇文章</title>
       <link>https://github.com/TIMBCLIN/blog/test/</link>
-      <pubDate>Thu, 16 Apr 2020 21:07:47 +0800</pubDate>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
       <guid>https://github.com/TIMBCLIN/blog/test/</guid>
       <description>hello world
@@ -27,6 +18,15 @@
 一級標題 二級標題 六級標題 我是阿財，我喜歡學習
 1.阿財
  1.hello   hello  what   are you   11111</description>
+    </item>
+    
+    <item>
+      <title>第二篇文章</title>
+      <link>https://github.com/TIMBCLIN/blog/second/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://github.com/TIMBCLIN/blog/second/</guid>
+      <description>我是第二篇文章</description>
     </item>
     
   </channel>

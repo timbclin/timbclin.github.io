@@ -2,33 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://github.com/TIMBCLIN/blog/</loc>
-    <lastmod>2020-04-17T21:07:47+08:00</lastmod>
-  </url><url>
-    <loc>https://github.com/TIMBCLIN/categories/</loc>
-    <lastmod>2020-04-17T21:07:47+08:00</lastmod>
-  </url><url>
-    <loc>https://github.com/TIMBCLIN/tags/good/</loc>
-    <lastmod>2020-04-17T21:07:47+08:00</lastmod>
-  </url><url>
-    <loc>https://github.com/TIMBCLIN/tags/shiba/</loc>
-    <lastmod>2020-04-17T21:07:47+08:00</lastmod>
-  </url><url>
-    <loc>https://github.com/TIMBCLIN/tags/</loc>
-    <lastmod>2020-04-17T21:07:47+08:00</lastmod>
-  </url><url>
-    <loc>https://github.com/TIMBCLIN/categories/%E5%BF%83%E5%BE%97/</loc>
-    <lastmod>2020-04-17T21:07:47+08:00</lastmod>
-  </url><url>
-    <loc>https://github.com/TIMBCLIN/blog/second/</loc>
-    <lastmod>2020-04-17T21:07:47+08:00</lastmod>
-  </url><url>
-    <loc>https://github.com/TIMBCLIN/</loc>
-    <lastmod>2020-04-17T21:07:47+08:00</lastmod>
-  </url><url>
-    <loc>https://github.com/TIMBCLIN/blog/test/</loc>
-    <lastmod>2020-04-16T21:07:47+08:00</lastmod>
-  </url><url>
     <loc>https://github.com/TIMBCLIN/about/</loc>
     <lastmod>2019-10-29T13:49:23+06:00</lastmod>
   </url><url>
@@ -38,10 +11,22 @@
     <loc>https://github.com/TIMBCLIN/search/</loc>
     <lastmod>2019-10-29T13:49:23+06:00</lastmod>
   </url><url>
+    <loc>https://github.com/TIMBCLIN/</loc>
+    <lastmod>2019-10-29T13:49:23+06:00</lastmod>
+  </url><url>
+    <loc>https://github.com/TIMBCLIN/blog/</loc>
+    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
+  </url><url>
+    <loc>https://github.com/TIMBCLIN/categories/</loc>
+    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
+  </url><url>
     <loc>https://github.com/TIMBCLIN/tags/game/</loc>
     <lastmod>2019-10-29T10:07:47+06:00</lastmod>
   </url><url>
     <loc>https://github.com/TIMBCLIN/categories/go-language/</loc>
+    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
+  </url><url>
+    <loc>https://github.com/TIMBCLIN/tags/good/</loc>
     <lastmod>2019-10-29T10:07:47+06:00</lastmod>
   </url><url>
     <loc>https://github.com/TIMBCLIN/blog/post-13/</loc>
@@ -57,6 +42,21 @@
     <lastmod>2019-10-29T10:07:47+06:00</lastmod>
   </url><url>
     <loc>https://github.com/TIMBCLIN/tags/python/</loc>
+    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
+  </url><url>
+    <loc>https://github.com/TIMBCLIN/tags/shiba/</loc>
+    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
+  </url><url>
+    <loc>https://github.com/TIMBCLIN/tags/</loc>
+    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
+  </url><url>
+    <loc>https://github.com/TIMBCLIN/categories/%E5%BF%83%E5%BE%97/</loc>
+    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
+  </url><url>
+    <loc>https://github.com/TIMBCLIN/blog/test/</loc>
+    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
+  </url><url>
+    <loc>https://github.com/TIMBCLIN/blog/second/</loc>
     <lastmod>2019-10-29T10:07:47+06:00</lastmod>
   </url>
 </urlset>
